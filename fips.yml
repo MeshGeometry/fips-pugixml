@@ -1,0 +1,9 @@
+#
+# fips-pugixml
+#
+---
+exports:
+    header-dirs: 
+      - ./src
+
+
